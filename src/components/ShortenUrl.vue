@@ -4,7 +4,6 @@
                 <input type="text" v-model="url" @focus="clearText">
                 <span class="text-danger">{{ errorMessage }}</span>
             </div>
-
             <button class="btn-shorten" @click="getShortenUrl">Shorten</button>
             <div class="shorten-output">
                 <p> Link shorten: <span id="foo">{{ shortenUrl }} </span></p>
