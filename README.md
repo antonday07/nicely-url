@@ -1,4 +1,5 @@
-# nice-url
+# Simple nicely shorten url website
+This is a simple website to learn concept about Vuejs 😋
 
 ## Project setup
 ```
